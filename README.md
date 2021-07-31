@@ -1,2 +1,7 @@
 # DC-MOTORS-WITH-H-bridge
-This task from electrical and electronics track from the summer training at the Smart Methods Company.
+
+* This repository contains a DC-motors circuit and  an arduino code
+
+The DC Motors Circuit
+=====================
+![caption](DC-Motors.gif)
